@@ -40,9 +40,14 @@ Based on evaluation metrics, select the best-performing model for prediction.
 
 # Evaluation
 Once the model is trained, evaluate it using the following metrics:
+
 Accuracy – The percentage of correctly predicted instances.
+
 Precision – The percentage of relevant instances among the retrieved instances.
+
 Recall – The percentage of relevant instances that were retrieved.
+
 F1-Score – The harmonic mean of precision and recall.
+
 AUC-ROC Curve – Measures the ability of the model to distinguish between classes.
   
