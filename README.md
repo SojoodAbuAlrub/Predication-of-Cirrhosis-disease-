@@ -22,8 +22,8 @@ The dataset used for this project contains various features related to patient d
 And other medical markers
 
 # Technologies used:
-- Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
-- Jupyter Notebooks for data exploration and modeling
+- Python (pandas, numpy, scikit-learn, matplotlib, seaborn, Keras, )
+- Google Colab 
 - Machine Learning algorithms for classification and prediction
 
 # Modeling Process
@@ -49,5 +49,4 @@ Recall – The percentage of relevant instances that were retrieved.
 
 F1-Score – The harmonic mean of precision and recall.
 
-AUC-ROC Curve – Measures the ability of the model to distinguish between classes.
   
